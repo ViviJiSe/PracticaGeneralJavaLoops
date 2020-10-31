@@ -7,14 +7,12 @@ public class NaturalNumbers_Exercise1 {
     private static Scanner in = new Scanner(System.in);
 
     public static void main(String[] args) {
-        int counter=0;
+        int counter = 0;
 
-        while(counter <=10){
+        while (counter <= 10) {
             out.println(counter);
             counter++;
 
         }
     }
-
-
 }
