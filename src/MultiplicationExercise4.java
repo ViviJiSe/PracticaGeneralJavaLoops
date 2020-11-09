@@ -18,6 +18,8 @@ public class MultiplicationExercise4 {
         return scanner.nextInt();
     }
 
+
+
     public static void main(String[] args) {
         System.out.println(numToMultiply(numReqFromUser("Type a number to multiply: ")));
     }
