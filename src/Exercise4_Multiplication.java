@@ -1,7 +1,7 @@
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class MultiplicationExercise4 {
+public class Exercise4_Multiplication {
 
     private static Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CountOfDigitsExercise6 {
+public class Exercise6_CountOfDigits {
 
     private static Scanner scanner = new Scanner(System.in);
 

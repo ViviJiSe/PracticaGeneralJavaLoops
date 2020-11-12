@@ -1,4 +1,4 @@
-public class NegativeNumberExercise9 {
+public class Exercise9_NegativeNumber {
 
     public static void main(String[] args) {
 

@@ -1,7 +1,7 @@
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class PatterExercise2 {
+public class Exercise2_Patter {
 
     private static PrintStream out = new PrintStream(System.out);
     private static Scanner in = new Scanner(System.in);

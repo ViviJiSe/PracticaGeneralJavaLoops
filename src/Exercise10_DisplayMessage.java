@@ -1,4 +1,4 @@
-public class DisplayMessageExercise10 {
+public class Exercise10_DisplayMessage {
 
     public static void main(String[] args) {
 
