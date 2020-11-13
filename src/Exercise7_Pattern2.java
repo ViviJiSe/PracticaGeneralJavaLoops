@@ -3,9 +3,6 @@ import java.util.Scanner;
 
 public class Exercise7_Pattern2 {
 
-    private static PrintStream out = new PrintStream(System.out);
-    private static Scanner in = new Scanner(System.in);
-
     public static void main(String[] args) {
         int row;
         int column;
