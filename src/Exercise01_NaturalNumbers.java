@@ -1,7 +1,7 @@
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class Exercise1_NaturalNumbers {
+public class Exercise01_NaturalNumbers {
 
     private static Scanner scanner = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class Exercise7_Pattern2 {
+public class Exercise07_Pattern2 {
 
     public static void main(String[] args) {
         int row;
