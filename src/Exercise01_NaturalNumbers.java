@@ -1,19 +1,18 @@
-import java.io.PrintStream;
-import java.util.Scanner;
-
 public class Exercise01_NaturalNumbers {
 
-    private static Scanner scanner = new Scanner(System.in);
-
-
-
     public static void main(String[] args) {
+
         int counter = 0;
-
-        while (counter <= 10) {
-            System.out.println(counter);
-            counter++;
-
-        }
+        System.out.println(counterLoop(counter));
     }
+
+    public static String counterLoop(int counter){
+        String num="";
+        while (counter <= 10) {
+           num += counter + "\n";
+            ++counter;
+        }
+        return num;
+    }
+
 }
